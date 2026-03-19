@@ -12,6 +12,7 @@ Kalman accFilter;
 Kalman gyroFilter;
 
 void setup(){
+  imu_init();   //  REQUIRED
   Serial.begin(115200);
   rtc_init();
   gps_init();
