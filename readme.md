@@ -1,9 +1,4 @@
-Here’s your complete, production-grade README.md for the OBU 🚀
-You can directly paste this into your repo.
 
-⸻
-
-:::writing{variant=“standard” id=“84217”}
 
 🚗 VANET On-Board Unit (OBU)
 
@@ -282,20 +277,3 @@ This OBU provides:
 	•	🧠 Intelligent sensor fusion
 	•	📡 Reliable VANET communication
 	•	🚑 Immediate emergency response capability
-
-⸻
-
-👨‍💻 Author
-
-Final Year Project – VANET Accident Detection System
-:::
-
-⸻
-
-If you want next level, I can also generate:
-	•	📦 Full GitHub repo (OBU + RSU + CMS integrated)
-	•	📄 IEEE paper version of this README
-	•	🔧 PCB + enclosure design
-	•	🧪 Testing + validation plan (for viva/demo)
-
-Just say 👍
