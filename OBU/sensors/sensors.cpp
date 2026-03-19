@@ -76,3 +76,9 @@ float read_vibration() {
 float read_temperature() {
   return 36.5; // placeholder (replace with MLX90614 later)
 }
+
+
+
+
+
+
