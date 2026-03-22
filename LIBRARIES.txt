@@ -1,0 +1,39 @@
+Required Arduino Libraries
+==========================
+Install all via Arduino IDE: Tools → Manage Libraries
+
+1.  LoRa
+    Author : Sandeep Mistry
+    Search : LoRa
+    URL    : https://github.com/sandeepmistry/arduino-LoRa
+
+2.  TinyGPSPlus
+    Author : Mikal Hart
+    Search : TinyGPSPlus
+    URL    : https://github.com/mikalhart/TinyGPSPlus
+
+3.  MCP2515
+    Author : autowp
+    Search : MCP2515
+    URL    : https://github.com/autowp/arduino-mcp2515
+
+4.  OneWire
+    Author : Paul Stoffregen
+    Search : OneWire
+    URL    : https://github.com/PaulStoffregen/OneWire
+
+5.  DallasTemperature
+    Author : Miles Burton
+    Search : DallasTemperature
+    URL    : https://github.com/milesburton/Arduino-Temperature-Control-Library
+
+Built-in (no install needed)
+-----------------------------
+  SD, Wire, SPI  — included with STM32duino board package
+
+Board Package
+-------------
+  Name   : STM32 MCU based boards  (STMicroelectronics)
+  URL    : https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+  Board  : Generic STM32F4 series → STM32F411CEUx (Black Pill)
+  Upload : STM32CubeProgrammer (DFU)
